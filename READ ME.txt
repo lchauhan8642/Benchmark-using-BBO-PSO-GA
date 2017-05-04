@@ -1,0 +1,6 @@
+>> GA(@parsopolous) 
+>> PSO(@parsopolous)
+>> BBO@parsopolous)
+>> ABC(@parsopolous)
+
+To run files for optimizing th function ( mishra , penholder , pathological , parsopolous)
